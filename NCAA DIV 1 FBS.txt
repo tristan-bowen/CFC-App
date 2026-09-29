@@ -1,6 +1,24 @@
 {
   "bowls" : [
     {
+      "name" : "Rose Bowl"
+    },
+    {
+      "name" : "Sugar Bowl"
+    },
+    {
+      "name" : "Orange Bowl"
+    },
+    {
+      "name" : "Cotton Bowl"
+    },
+    {
+      "name" : "Peach Bowl"
+    },
+    {
+      "name" : "Fiesta Bowl"
+    },
+    {
       "name" : "Sun Bowl"
     },
     {
