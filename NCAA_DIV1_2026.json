@@ -1,0 +1,3167 @@
+{
+  "bowls" : [
+    {
+      "name" : "Rose Bowl"
+    },
+    {
+      "name" : "Sugar Bowl"
+    },
+    {
+      "name" : "Orange Bowl"
+    },
+    {
+      "name" : "Cotton Bowl"
+    },
+    {
+      "name" : "Peach Bowl"
+    },
+    {
+      "name" : "Fiesta Bowl"
+    },
+    {
+      "name" : "Sun Bowl"
+    },
+    {
+      "name" : "Gator Bowl"
+    },
+    {
+      "name" : "Citrus Bowl"
+    },
+    {
+      "name" : "Liberty Bowl"
+    },
+    {
+      "name" : "Independence Bowl"
+    },
+    {
+      "name" : "Holiday Bowl"
+    },
+    {
+      "name" : "ReliaQuest Bowl"
+    },
+    {
+      "name" : "Rate Bowl"
+    },
+    {
+      "name" : "Pop-Tarts Bowl"
+    },
+    {
+      "name" : "Las Vegas Bowl"
+    },
+    {
+      "name" : "Alamo Bowl"
+    },
+    {
+      "name" : "Famous Idaho Potato Bowl"
+    },
+    {
+      "name" : "Music City Bowl"
+    },
+    {
+      "name" : "68 Ventures Bowl"
+    },
+    {
+      "name" : "New Orleans Bowl"
+    },
+    {
+      "name" : "Hawai’i Bowl"
+    },
+    {
+      "name" : "Duke’s Mayo Bowl"
+    },
+    {
+      "name" : "Armed Forces Bowl"
+    },
+    {
+      "name" : "Texas Bowl"
+    },
+    {
+      "name" : "Birmingham Bowl"
+    },
+    {
+      "name" : "New Mexico Bowl"
+    },
+    {
+      "name" : "Military Bowl"
+    },
+    {
+      "name" : "Gasparilla Bowl"
+    },
+    {
+      "name" : "Pinstripe Bowl"
+    },
+    {
+      "name" : "First Responder Bowl"
+    },
+    {
+      "name" : "Boca Raton Bowl"
+    },
+    {
+      "name" : "Salute to Veterans Bowl"
+    },
+    {
+      "name" : "GameAbove Sports Bowl"
+    },
+    {
+      "name" : "Cure Bowl"
+    },
+    {
+      "name" : "Arizona Bowl"
+    },
+    {
+      "name" : "Frisco Bowl"
+    },
+    {
+      "name" : "Myrtle Beach Bowl"
+    },
+    {
+      "name" : "Fenway Bowl"
+    },
+    {
+      "name" : "Xbox Bowl"
+    }
+  ],
+  "conferences" : [
+    {
+      "conferencePrestige" : 80,
+      "name" : "ACC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Boston College",
+          "teamB" : "Pittsburgh"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boston College",
+          "teamB" : "Syracuse"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "California",
+          "teamB" : "SMU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "California",
+          "teamB" : "Stanford"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Clemson",
+          "teamB" : "Florida State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Duke",
+          "teamB" : "North Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Duke",
+          "teamB" : "NC State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Duke",
+          "teamB" : "Wake Forest"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida State",
+          "teamB" : "Miami (FL)"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Miami (FL)",
+          "teamB" : "Virginia Tech"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Carolina",
+          "teamB" : "NC State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Carolina",
+          "teamB" : "Virginia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "NC State",
+          "teamB" : "Wake Forest"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Pittsburgh",
+          "teamB" : "Syracuse"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "SMU",
+          "teamB" : "Stanford"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Virginia",
+          "teamB" : "Virginia Tech"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "BC",
+          "defenseScheme" : "4-3",
+          "mascot" : "Eagles",
+          "name" : "Boston College",
+          "offenseScheme" : "spread",
+          "prestige" : 58,
+          "primary" : "#8A2432",
+          "region" : "Northeast",
+          "secondary" : "#C7C8CA",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "CLEM",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Tigers",
+          "name" : "Clemson",
+          "offenseScheme" : "airRaid",
+          "prestige" : 86,
+          "primary" : "#F56600",
+          "region" : "Southeast",
+          "secondary" : "#522D80",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "DUKE",
+          "defenseScheme" : "4-3",
+          "mascot" : "Blue Devils",
+          "name" : "Duke",
+          "offenseScheme" : "spread",
+          "prestige" : 55,
+          "primary" : "#013088",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "FSU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Seminoles",
+          "name" : "Florida State",
+          "offenseScheme" : "spread",
+          "prestige" : 77,
+          "primary" : "#782F40",
+          "region" : "Southeast",
+          "secondary" : "#CEB888",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "GT",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Yellow Jackets",
+          "name" : "Georgia Tech",
+          "offenseScheme" : "pro",
+          "prestige" : 63,
+          "primary" : "#B3A369",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "LOU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Cardinals",
+          "name" : "Louisville",
+          "offenseScheme" : "spread",
+          "prestige" : 64,
+          "primary" : "#C9001F",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MIA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Hurricanes",
+          "name" : "Miami (FL)",
+          "offenseScheme" : "airRaid",
+          "prestige" : 79,
+          "primary" : "#F05A00",
+          "region" : "Southeast",
+          "secondary" : "#005030",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NCST",
+          "defenseScheme" : "3-4",
+          "mascot" : "Wolfpack",
+          "name" : "NC State",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#CC0000",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "UNC",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Tar Heels",
+          "name" : "North Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#7BAFD4",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "PITT",
+          "defenseScheme" : "4-3",
+          "mascot" : "Panthers",
+          "name" : "Pittsburgh",
+          "offenseScheme" : "spread",
+          "prestige" : 66,
+          "primary" : "#003594",
+          "region" : "Northeast",
+          "secondary" : "#FFB81C",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "SYR",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Orange",
+          "name" : "Syracuse",
+          "offenseScheme" : "spread",
+          "prestige" : 64,
+          "primary" : "#F76900",
+          "region" : "Northeast",
+          "secondary" : "#000E54",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UVA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Cavaliers",
+          "name" : "Virginia",
+          "offenseScheme" : "pro",
+          "prestige" : 58,
+          "primary" : "#F84C1E",
+          "region" : "Southeast",
+          "secondary" : "#232D4B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "VT",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Hokies",
+          "name" : "Virginia Tech",
+          "offenseScheme" : "spread",
+          "prestige" : 65,
+          "primary" : "#861F41",
+          "region" : "Southeast",
+          "secondary" : "#E87722",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WF",
+          "defenseScheme" : "4-3",
+          "mascot" : "Demon Deacons",
+          "name" : "Wake Forest",
+          "offenseScheme" : "spread",
+          "prestige" : 55,
+          "primary" : "#CEB888",
+          "region" : "Southeast",
+          "secondary" : "#2C2A29",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "CAL",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "California",
+          "offenseScheme" : "spread",
+          "prestige" : 63,
+          "primary" : "#003161",
+          "region" : "West",
+          "secondary" : "#FCB515",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "SMU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "SMU",
+          "offenseScheme" : "airRaid",
+          "prestige" : 68,
+          "primary" : "#D70000",
+          "region" : "Midwest",
+          "secondary" : "#0032A1",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "STAN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Stanford",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#8C1514",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 86,
+      "name" : "Big Ten",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Illinois",
+          "teamB" : "Northwestern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Illinois",
+          "teamB" : "Purdue"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Indiana",
+          "teamB" : "Purdue"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Minnesota"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Nebraska"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Wisconsin"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Maryland",
+          "teamB" : "Rutgers"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Michigan",
+          "teamB" : "Michigan State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Michigan",
+          "teamB" : "Ohio State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Minnesota",
+          "teamB" : "Wisconsin"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oregon",
+          "teamB" : "Washington"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "UCLA",
+          "teamB" : "USC"
+        }
+      ],
+      "requiredConferenceGames" : 9,
+      "teams" : [
+        {
+          "abbreviation" : "ILL",
+          "defenseScheme" : "3-4",
+          "mascot" : "Fighting Illini",
+          "name" : "Illinois",
+          "offenseScheme" : "spread",
+          "prestige" : 68,
+          "primary" : "#FF5F05",
+          "region" : "Midwest",
+          "secondary" : "#13294B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "IND",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Hoosiers",
+          "name" : "Indiana",
+          "offenseScheme" : "spread",
+          "prestige" : 70,
+          "primary" : "#990000",
+          "region" : "Midwest",
+          "secondary" : "#EDEBEB",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "IOWA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Hawkeyes",
+          "name" : "Iowa",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#000000",
+          "region" : "Midwest",
+          "secondary" : "#FCD116",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MD",
+          "defenseScheme" : "3-4",
+          "mascot" : "Terrapins",
+          "name" : "Maryland",
+          "offenseScheme" : "pro",
+          "prestige" : 61,
+          "primary" : "#E21833",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MICH",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Wolverines",
+          "name" : "Michigan",
+          "offenseScheme" : "pro",
+          "prestige" : 91,
+          "primary" : "#FFCB05",
+          "region" : "Midwest",
+          "secondary" : "#00274C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Spartans",
+          "name" : "Michigan State",
+          "offenseScheme" : "pro",
+          "prestige" : 61,
+          "primary" : "#173F35",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MINN",
+          "defenseScheme" : "4-3",
+          "mascot" : "Golden Gophers",
+          "name" : "Minnesota",
+          "offenseScheme" : "pro",
+          "prestige" : 63,
+          "primary" : "#5B0013",
+          "region" : "Midwest",
+          "secondary" : "#FFB71E",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NEB",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Cornhuskers",
+          "name" : "Nebraska",
+          "offenseScheme" : "spread",
+          "prestige" : 70,
+          "primary" : "#E41C38",
+          "region" : "Midwest",
+          "secondary" : "#FDF2D9",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "NW",
+          "defenseScheme" : "4-3",
+          "mascot" : "Wildcats",
+          "name" : "Northwestern",
+          "offenseScheme" : "spread",
+          "prestige" : 55,
+          "primary" : "#4E2A84",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "OSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Buckeyes",
+          "name" : "Ohio State",
+          "offenseScheme" : "spread",
+          "prestige" : 94,
+          "primary" : "#BB0000",
+          "region" : "Midwest",
+          "secondary" : "#666666",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "PSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Nittany Lions",
+          "name" : "Penn State",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#001E44",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "RUTG",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Scarlet Knights",
+          "name" : "Rutgers",
+          "offenseScheme" : "spread",
+          "prestige" : 55,
+          "primary" : "#CC0033",
+          "region" : "Northeast",
+          "secondary" : "#6A757C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UCLA",
+          "defenseScheme" : "4-3",
+          "mascot" : "Bruins",
+          "name" : "UCLA",
+          "offenseScheme" : "spread",
+          "prestige" : 70,
+          "primary" : "#2774AE",
+          "region" : "West",
+          "secondary" : "#F2A900",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "USC",
+          "defenseScheme" : "4-3",
+          "mascot" : "Trojans",
+          "name" : "USC",
+          "offenseScheme" : "airRaid",
+          "prestige" : 80,
+          "primary" : "#9D2235",
+          "region" : "West",
+          "secondary" : "#FFC72C",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "WASH",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Huskies",
+          "name" : "Washington",
+          "offenseScheme" : "pro",
+          "prestige" : 75,
+          "primary" : "#33006F",
+          "region" : "West",
+          "secondary" : "#E8D3A2",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WISC",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Badgers",
+          "name" : "Wisconsin",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#C5050C",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "PUR",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Purdue",
+          "offenseScheme" : "pro",
+          "prestige" : 47,
+          "primary" : "#CFB991",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#6E717A"
+        },
+        {
+          "abbreviation" : "ORE",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Oregon",
+          "offenseScheme" : "spread",
+          "prestige" : 87,
+          "primary" : "#006F30",
+          "region" : "West",
+          "secondary" : "#FEE11A",
+          "tertiary" : "#FEFFFF"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 91,
+      "name" : "SEC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Auburn"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Tennessee"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Mississippi State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "LSU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "Texas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "Missouri"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Auburn",
+          "teamB" : "Georgia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Auburn",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "Georgia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "Kentucky"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kentucky",
+          "teamB" : "Tennessee"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kentucky",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "LSU",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "LSU",
+          "teamB" : "Texas A&M"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Mississippi State",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Mississippi State",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Missouri",
+          "teamB" : "Oklahoma"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Missouri",
+          "teamB" : "Texas A&M"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oklahoma",
+          "teamB" : "Texas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oklahoma",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Tennessee",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Texas",
+          "teamB" : "Texas A&M"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "ALA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Crimson Tide",
+          "name" : "Alabama",
+          "offenseScheme" : "spread",
+          "prestige" : 96,
+          "primary" : "#B30838",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "ARK",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Razorbacks",
+          "name" : "Arkansas",
+          "offenseScheme" : "spread",
+          "prestige" : 70,
+          "primary" : "#A41F35",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "AUB",
+          "defenseScheme" : "3-4",
+          "mascot" : "Tigers",
+          "name" : "Auburn",
+          "offenseScheme" : "pro",
+          "prestige" : 75,
+          "primary" : "#F26522",
+          "region" : "Southeast",
+          "secondary" : "#03244D",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "FLA",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Gators",
+          "name" : "Florida",
+          "offenseScheme" : "option",
+          "prestige" : 77,
+          "primary" : "#FA4616",
+          "region" : "Southeast",
+          "secondary" : "#003087",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UGA",
+          "defenseScheme" : "3-4",
+          "mascot" : "Bulldogs",
+          "name" : "Georgia",
+          "offenseScheme" : "pro",
+          "prestige" : 96,
+          "primary" : "#BA0C2F",
+          "region" : "Southeast",
+          "secondary" : "#2C2A29",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UK",
+          "defenseScheme" : "4-3",
+          "mascot" : "Wildcats",
+          "name" : "Kentucky",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#0033A0",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "LSU",
+          "defenseScheme" : "4-3",
+          "mascot" : "Tigers",
+          "name" : "LSU",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#461D7C",
+          "region" : "Southeast",
+          "secondary" : "#FDD023",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MSST",
+          "defenseScheme" : "3-4",
+          "mascot" : "Bulldogs",
+          "name" : "Mississippi State",
+          "offenseScheme" : "spread",
+          "prestige" : 58,
+          "primary" : "#5D1725",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MIZZ",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Tigers",
+          "name" : "Missouri",
+          "offenseScheme" : "pro",
+          "prestige" : 62,
+          "primary" : "#F1B82D",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "OKLA",
+          "defenseScheme" : "4-3",
+          "mascot" : "Sooners",
+          "name" : "Oklahoma",
+          "offenseScheme" : "airRaid",
+          "prestige" : 84,
+          "primary" : "#841617",
+          "region" : "Plains",
+          "secondary" : "#DDCBA4",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MISS",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Rebels",
+          "name" : "Ole Miss",
+          "offenseScheme" : "spread",
+          "prestige" : 78,
+          "primary" : "#CE1126",
+          "region" : "Southeast",
+          "secondary" : "#14213D",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SC",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Gamecocks",
+          "name" : "South Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 70,
+          "primary" : "#73000A",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TENN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Volunteers",
+          "name" : "Tennessee",
+          "offenseScheme" : "spread",
+          "prestige" : 81,
+          "primary" : "#FF8200",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TAMU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Aggies",
+          "name" : "Texas A&M",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#500000",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TEX",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Longhorns",
+          "name" : "Texas",
+          "offenseScheme" : "pro",
+          "prestige" : 87,
+          "primary" : "#BF5700",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "VAND",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Commodores",
+          "name" : "Vanderbilt",
+          "offenseScheme" : "option",
+          "prestige" : 57,
+          "primary" : "#000000",
+          "region" : "Southeast",
+          "secondary" : "#CFAE70",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 82,
+      "name" : "Big 12",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Arizona",
+          "teamB" : "Arizona State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Baylor",
+          "teamB" : "TCU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "BYU",
+          "teamB" : "Utah"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kansas",
+          "teamB" : "Kansas State"
+        }
+      ],
+      "requiredConferenceGames" : 9,
+      "teams" : [
+        {
+          "abbreviation" : "BAY",
+          "defenseScheme" : "3-4",
+          "mascot" : "Bears",
+          "name" : "Baylor",
+          "offenseScheme" : "spread",
+          "prestige" : 70,
+          "primary" : "#154734",
+          "region" : "Plains",
+          "secondary" : "#FFB81C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BYU",
+          "defenseScheme" : "4-3",
+          "mascot" : "Cougars",
+          "name" : "BYU",
+          "offenseScheme" : "pro",
+          "prestige" : 72,
+          "primary" : "#003DA5",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "CIN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Bearcats",
+          "name" : "Cincinnati",
+          "offenseScheme" : "spread",
+          "prestige" : 62,
+          "primary" : "#E00122",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "HOU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Cougars",
+          "name" : "Houston",
+          "offenseScheme" : "spread",
+          "prestige" : 62,
+          "primary" : "#C92A39",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "ISU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Cyclones",
+          "name" : "Iowa State",
+          "offenseScheme" : "spread",
+          "prestige" : 64,
+          "primary" : "#822433",
+          "region" : "Midwest",
+          "secondary" : "#FDCA2F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "KAN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Jayhawks",
+          "name" : "Kansas",
+          "offenseScheme" : "spread",
+          "prestige" : 64,
+          "primary" : "#E8000D",
+          "region" : "Plains",
+          "secondary" : "#0051BA",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "KSU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Wildcats",
+          "name" : "Kansas State",
+          "offenseScheme" : "spread",
+          "prestige" : 67,
+          "primary" : "#330A57",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "OKST",
+          "defenseScheme" : "3-4",
+          "mascot" : "Cowboys",
+          "name" : "Oklahoma State",
+          "offenseScheme" : "spread",
+          "prestige" : 65,
+          "primary" : "#FE5C00",
+          "region" : "Plains",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "TCU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Horned Frogs",
+          "name" : "TCU",
+          "offenseScheme" : "airRaid",
+          "prestige" : 65,
+          "primary" : "#4D1979",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TTU",
+          "defenseScheme" : "3-4",
+          "mascot" : "Red Raiders",
+          "name" : "Texas Tech",
+          "offenseScheme" : "airRaid",
+          "prestige" : 81,
+          "primary" : "#CC0000",
+          "region" : "Plains",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UCF",
+          "defenseScheme" : "3-4",
+          "mascot" : "Knights",
+          "name" : "UCF",
+          "offenseScheme" : "spread",
+          "prestige" : 65,
+          "primary" : "#000000",
+          "region" : "Southeast",
+          "secondary" : "#B7A369",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UTAH",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Utes",
+          "name" : "Utah",
+          "offenseScheme" : "spread",
+          "prestige" : 79,
+          "primary" : "#CC0000",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "WVU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Mountaineers",
+          "name" : "West Virginia",
+          "offenseScheme" : "spread",
+          "prestige" : 63,
+          "primary" : "#EAAA00",
+          "region" : "Southeast",
+          "secondary" : "#002855",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ARIZ",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Arizona",
+          "offenseScheme" : "spread",
+          "prestige" : 65,
+          "primary" : "#AB0520",
+          "region" : "Southwest",
+          "secondary" : "#0B234A",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "ASU",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Arizona State",
+          "offenseScheme" : "pro",
+          "prestige" : 67,
+          "primary" : "#FFC72C",
+          "region" : "Southwest",
+          "secondary" : "#7D2248",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "COLO",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Colorado",
+          "offenseScheme" : "spread",
+          "prestige" : 67,
+          "primary" : "#000000",
+          "region" : "West",
+          "secondary" : "#CFB87C",
+          "tertiary" : "#FEFFFF"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 61,
+      "name" : "Mountain West",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Air Force",
+          "teamB" : "Colorado State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Air Force",
+          "teamB" : "Wyoming"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boise State",
+          "teamB" : "New Mexico"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boise State",
+          "teamB" : "Utah State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Colorado State",
+          "teamB" : "Wyoming"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Fresno State",
+          "teamB" : "Nevada"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Fresno State",
+          "teamB" : "San Jose State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Hawaii",
+          "teamB" : "San Diego State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Hawaii",
+          "teamB" : "UNLV"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Nevada",
+          "teamB" : "UNLV"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "New Mexico",
+          "teamB" : "San Jose State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "San Diego State",
+          "teamB" : "Utah State"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "AFA",
+          "defenseScheme" : "3-4",
+          "mascot" : "Falcons",
+          "name" : "Air Force",
+          "offenseScheme" : "option",
+          "prestige" : 41,
+          "primary" : "#003594",
+          "region" : "West",
+          "secondary" : "#B2B4B2",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Broncos",
+          "name" : "Boise State",
+          "offenseScheme" : "spread",
+          "prestige" : 66,
+          "primary" : "#0033A0",
+          "region" : "West",
+          "secondary" : "#FA4616",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CSU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Rams",
+          "name" : "Colorado State",
+          "offenseScheme" : "spread",
+          "prestige" : 42,
+          "primary" : "#1E4D2B",
+          "region" : "West",
+          "secondary" : "#C8C372",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "FRES",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Bulldogs",
+          "name" : "Fresno State",
+          "offenseScheme" : "option",
+          "prestige" : 50,
+          "primary" : "#C41230",
+          "region" : "West",
+          "secondary" : "#13294C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "HAW",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Rainbow Warriors",
+          "name" : "Hawaii",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#005838",
+          "region" : "West",
+          "secondary" : "#BCBEC0",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NEV",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Wolf Pack",
+          "name" : "Nevada",
+          "offenseScheme" : "pro",
+          "prestige" : 41,
+          "primary" : "#041E42",
+          "region" : "West",
+          "secondary" : "#74767B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UNM",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Lobos",
+          "name" : "New Mexico",
+          "offenseScheme" : "pro",
+          "prestige" : 34,
+          "primary" : "#BA0C2F",
+          "region" : "Southwest",
+          "secondary" : "#A7A8AA",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SDSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Aztecs",
+          "name" : "San Diego State",
+          "offenseScheme" : "spread",
+          "prestige" : 51,
+          "primary" : "#C41230",
+          "region" : "West",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SJSU",
+          "defenseScheme" : "3-4",
+          "mascot" : "Spartans",
+          "name" : "San Jose State",
+          "offenseScheme" : "spread",
+          "prestige" : 55,
+          "primary" : "#0055A2",
+          "region" : "West",
+          "secondary" : "#E5A823",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UNLV",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Rebels",
+          "name" : "UNLV",
+          "offenseScheme" : "spread",
+          "prestige" : 43,
+          "primary" : "#CF0A2C",
+          "region" : "West",
+          "secondary" : "#CAC8C8",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "USU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Aggies",
+          "name" : "Utah State",
+          "offenseScheme" : "option",
+          "prestige" : 49,
+          "primary" : "#00263A",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "WYO",
+          "defenseScheme" : "4-3",
+          "mascot" : "Cowboys",
+          "name" : "Wyoming",
+          "offenseScheme" : "pro",
+          "prestige" : 48,
+          "primary" : "#492F24",
+          "region" : "Plains",
+          "secondary" : "#FFC425",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 48,
+      "name" : "MAC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Akron",
+          "teamB" : "Buffalo"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Akron",
+          "teamB" : "Kent State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Buffalo",
+          "teamB" : "Kent State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Ball State",
+          "teamB" : "Miami (OH)"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Ball State",
+          "teamB" : "Ohio"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Miami (OH)",
+          "teamB" : "Ohio"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Bowling Green",
+          "teamB" : "Northern Illinois"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Bowling Green",
+          "teamB" : "Toledo"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Northern Illinois",
+          "teamB" : "Toledo"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Central Michigan",
+          "teamB" : "Eastern Michigan"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Central Michigan",
+          "teamB" : "Western Michigan"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Eastern Michigan",
+          "teamB" : "Western Michigan"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "AKRON",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Zips",
+          "name" : "Akron",
+          "offenseScheme" : "spread",
+          "prestige" : 26,
+          "primary" : "#003DA5",
+          "region" : "Midwest",
+          "secondary" : "#FFB81C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BALL",
+          "defenseScheme" : "3-4",
+          "mascot" : "Cardinals",
+          "name" : "Ball State",
+          "offenseScheme" : "option",
+          "prestige" : 33,
+          "primary" : "#BA0C2F",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "BGSU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Falcons",
+          "name" : "Bowling Green",
+          "offenseScheme" : "pro",
+          "prestige" : 41,
+          "primary" : "#F15A24",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CMU",
+          "defenseScheme" : "3-4",
+          "mascot" : "Chippewas",
+          "name" : "Central Michigan",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#6C2C1B",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "EMU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Eagles",
+          "name" : "Eastern Michigan",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#006778",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MIAO",
+          "defenseScheme" : "4-3",
+          "mascot" : "RedHawks",
+          "name" : "Miami (OH)",
+          "offenseScheme" : "option",
+          "prestige" : 47,
+          "primary" : "#BF5700",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "NIU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Huskies",
+          "name" : "Northern Illinois",
+          "offenseScheme" : "option",
+          "prestige" : 40,
+          "primary" : "#C41230",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "OHIO",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Bobcats",
+          "name" : "Ohio",
+          "offenseScheme" : "option",
+          "prestige" : 40,
+          "primary" : "#7A0026",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TOL",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Rockets",
+          "name" : "Toledo",
+          "offenseScheme" : "spread",
+          "prestige" : 42,
+          "primary" : "#002166",
+          "region" : "Midwest",
+          "secondary" : "#6FB7E9",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WMU",
+          "defenseScheme" : "4-3",
+          "mascot" : "Broncos",
+          "name" : "Western Michigan",
+          "offenseScheme" : "option",
+          "prestige" : 46,
+          "primary" : "#7A0026",
+          "region" : "Midwest",
+          "secondary" : "#FFC425",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "KENT",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Kent State",
+          "offenseScheme" : "spread",
+          "prestige" : 26,
+          "primary" : "#003975",
+          "region" : "Midwest",
+          "secondary" : "#EFAB00",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "BUF",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "Buffalo",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#005BBB",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "UMASS",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "UMass",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#881C1C",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 53,
+      "name" : "Sun Belt",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Appalachian State",
+          "teamB" : "Georgia Southern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Appalachian State",
+          "teamB" : "Marshall"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia State",
+          "teamB" : "Georgia Southern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Old Dominion"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Louisiana",
+          "teamB" : "ULM"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "South Alabama",
+          "teamB" : "Troy"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "APP",
+          "defenseScheme" : "4-3",
+          "mascot" : "Mountaineers",
+          "name" : "Appalachian State",
+          "offenseScheme" : "spread",
+          "prestige" : 49,
+          "primary" : "#00265D",
+          "region" : "Southeast",
+          "secondary" : "#FFC425",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CCU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Chanticleers",
+          "name" : "Coastal Carolina",
+          "offenseScheme" : "airRaid",
+          "prestige" : 41,
+          "primary" : "#006A4E",
+          "region" : "Southeast",
+          "secondary" : "#00A3A3",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "GAST",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Panthers",
+          "name" : "Georgia State",
+          "offenseScheme" : "pro",
+          "prestige" : 33,
+          "primary" : "#003DA5",
+          "region" : "Southeast",
+          "secondary" : "#69BE28",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "JMU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Dukes",
+          "name" : "James Madison",
+          "offenseScheme" : "spread",
+          "prestige" : 50,
+          "primary" : "#440084",
+          "region" : "Southeast",
+          "secondary" : "#CBB677",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UL",
+          "defenseScheme" : "4-3",
+          "mascot" : "Ragin’ Cajuns",
+          "name" : "Louisiana",
+          "offenseScheme" : "spread",
+          "prestige" : 41,
+          "primary" : "#CE181E",
+          "region" : "Southeast",
+          "secondary" : "#FEFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "GASO",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Georgia Southern",
+          "offenseScheme" : "option",
+          "prestige" : 35,
+          "primary" : "#031D42",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#A9925F"
+        },
+        {
+          "abbreviation" : "MRSH",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Marshall",
+          "offenseScheme" : "option",
+          "prestige" : 48,
+          "primary" : "#00B140",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "ODU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Old Dominion",
+          "offenseScheme" : "option",
+          "prestige" : 33,
+          "primary" : "#033556",
+          "region" : "Southeast",
+          "secondary" : "#82898F",
+          "tertiary" : "#97C4EA"
+        },
+        {
+          "abbreviation" : "ARST",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Arkansas State",
+          "offenseScheme" : "pro",
+          "prestige" : 34,
+          "primary" : "#CC092F",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "ULM",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "ULM",
+          "offenseScheme" : "pro",
+          "prestige" : 40,
+          "primary" : "#840029",
+          "region" : "Southeast",
+          "secondary" : "#FDB913",
+          "tertiary" : "#84714C"
+        },
+        {
+          "abbreviation" : "USA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "South Alabama",
+          "offenseScheme" : "spread",
+          "prestige" : 41,
+          "primary" : "#001F5A",
+          "region" : "Southeast",
+          "secondary" : "#BF0D3E",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "USM",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Southern Miss",
+          "offenseScheme" : "spread",
+          "prestige" : 49,
+          "primary" : "#000000",
+          "region" : "Southeast",
+          "secondary" : "#FFD045",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "TXST",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Texas State",
+          "offenseScheme" : "airRaid",
+          "prestige" : 48,
+          "primary" : "#501213",
+          "region" : "Plains",
+          "secondary" : "#AC9055",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "TROY",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Troy",
+          "offenseScheme" : "spread",
+          "prestige" : 52,
+          "primary" : "#6D0016",
+          "region" : "Southeast",
+          "secondary" : "#B1B3B5",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 55,
+      "name" : "AAC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Army",
+          "teamB" : "Navy"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Memphis",
+          "teamB" : "UAB"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Texas",
+          "teamB" : "UTSA"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Charlotte",
+          "teamB" : "East Carolina"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "ARMY",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "Army",
+          "offenseScheme" : "option",
+          "prestige" : 56,
+          "primary" : "#D3BC8C",
+          "region" : "Northeast",
+          "secondary" : "#2C2929",
+          "tertiary" : "#53565A"
+        },
+        {
+          "abbreviation" : "CLT",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Charlotte",
+          "offenseScheme" : "pro",
+          "prestige" : 34,
+          "primary" : "#004F35",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#A49564"
+        },
+        {
+          "abbreviation" : "ECU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "East Carolina",
+          "offenseScheme" : "spread",
+          "prestige" : 42,
+          "primary" : "#592A8A",
+          "region" : "Southeast",
+          "secondary" : "#FEC823",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "FAU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Florida Atlantic",
+          "offenseScheme" : "airRaid",
+          "prestige" : 41,
+          "primary" : "#003265",
+          "region" : "Southeast",
+          "secondary" : "#CC0000",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "MEM",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Memphis",
+          "offenseScheme" : "pro",
+          "prestige" : 59,
+          "primary" : "#004991",
+          "region" : "Southeast",
+          "secondary" : "#8E908F",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "NAVY",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Navy",
+          "offenseScheme" : "option",
+          "prestige" : 48,
+          "primary" : "#00215A",
+          "region" : "Southeast",
+          "secondary" : "#B5A67C",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "UNT",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "North Texas",
+          "offenseScheme" : "airRaid",
+          "prestige" : 49,
+          "primary" : "#049032",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "RICE",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "Rice",
+          "offenseScheme" : "option",
+          "prestige" : 34,
+          "primary" : "#001F5A",
+          "region" : "Plains",
+          "secondary" : "#7B7E7F",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "USF",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "South Florida",
+          "offenseScheme" : "spread",
+          "prestige" : 45,
+          "primary" : "#006646",
+          "region" : "Southeast",
+          "secondary" : "#CFC493",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "TEM",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "Temple",
+          "offenseScheme" : "spread",
+          "prestige" : 41,
+          "primary" : "#9C2234",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#C4BCB7"
+        },
+        {
+          "abbreviation" : "TULN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Tulane",
+          "offenseScheme" : "pro",
+          "prestige" : 59,
+          "primary" : "#245B4D",
+          "region" : "Southeast",
+          "secondary" : "#6EC5E8",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "TLSA",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Tulsa",
+          "offenseScheme" : "spread",
+          "prestige" : 48,
+          "primary" : "#002D71",
+          "region" : "Plains",
+          "secondary" : "#C8102E",
+          "tertiary" : "#C4B683"
+        },
+        {
+          "abbreviation" : "UAB",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "UAB",
+          "offenseScheme" : "spread",
+          "prestige" : 41,
+          "primary" : "#195632",
+          "region" : "Southeast",
+          "secondary" : "#FDB913",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "UTSA",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "UTSA",
+          "offenseScheme" : "pro",
+          "prestige" : 43,
+          "primary" : "#0A2240",
+          "region" : "Plains",
+          "secondary" : "#E14504",
+          "tertiary" : "#FEFFFF"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 48,
+      "name" : "C-USA",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Middle Tennessee",
+          "teamB" : "Western Kentucky"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "FIU",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "FIU",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#071D3E",
+          "region" : "Southeast",
+          "secondary" : "#B6862C",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "JVST",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Jacksonville State",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#CA2026",
+          "region" : "Southeast",
+          "secondary" : "#FEFFFF",
+          "tertiary" : "#403F41"
+        },
+        {
+          "abbreviation" : "KENN",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Kennesaw State",
+          "offenseScheme" : "spread",
+          "prestige" : 33,
+          "primary" : "#FCBA30",
+          "region" : "Southeast",
+          "secondary" : "#0A1314",
+          "tertiary" : "#C4C6C8"
+        },
+        {
+          "abbreviation" : "LIB",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Liberty",
+          "offenseScheme" : "spread",
+          "prestige" : 43,
+          "primary" : "#09244E",
+          "region" : "Southeast",
+          "secondary" : "#BB2200",
+          "tertiary" : "#A2A5A8"
+        },
+        {
+          "abbreviation" : "LT",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Louisiana Tech",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#003087",
+          "region" : "Southeast",
+          "secondary" : "#CB333B",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "MTSU",
+          "defenseScheme" : "3-4",
+          "mascot" : "Warriors",
+          "name" : "Middle Tennessee",
+          "offenseScheme" : "spread",
+          "prestige" : 41,
+          "primary" : "#0065CC",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#899498"
+        },
+        {
+          "abbreviation" : "MOST",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Missouri State",
+          "offenseScheme" : "spread",
+          "prestige" : 33,
+          "primary" : "#5E0009",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "NMSU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "New Mexico State",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#7E141B",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "SHSU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Sam Houston",
+          "offenseScheme" : "airRaid",
+          "prestige" : 40,
+          "primary" : "#F56423",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#57595B"
+        },
+        {
+          "abbreviation" : "UTEP",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "UTEP",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#031D42",
+          "region" : "Plains",
+          "secondary" : "#FF8200",
+          "tertiary" : "#B1B3B3"
+        },
+        {
+          "abbreviation" : "DEL",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Delware",
+          "offenseScheme" : "spread",
+          "prestige" : 34,
+          "primary" : "#00539F",
+          "region" : "Northeast",
+          "secondary" : "#FFD200",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "WKU",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Western Kentucky",
+          "offenseScheme" : "airRaid",
+          "prestige" : 50,
+          "primary" : "#B01E23",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#323232"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 71,
+      "name" : "PAC-12",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Washington State",
+          "teamB" : "Oregon State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oregon State",
+          "teamB" : "Washington State"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Oregon State",
+          "offenseScheme" : "pro",
+          "prestige" : 59,
+          "primary" : "#D73F09",
+          "region" : "West",
+          "secondary" : "#000000",
+          "tertiary" : "#FEFFFF"
+        },
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "4-3",
+          "mascot" : "Warriors",
+          "name" : "Washington State",
+          "offenseScheme" : "spread",
+          "prestige" : 62,
+          "primary" : "#981E31",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#525659"
+        }
+      ],
+      "tier" : "Non-Power"
+    }
+  ],
+  "independents" : [
+    {
+      "abbreviation" : "ND",
+      "defenseScheme" : "4-2-5",
+      "mascot" : "Fighting Irish",
+      "name" : "Notre Dame",
+      "offenseScheme" : "spread",
+      "prestige" : 94,
+      "primary" : "#0C2340",
+      "region" : "Midwest",
+      "secondary" : "#C99700",
+      "tertiary" : "#FFFFFF"
+    },
+    {
+      "abbreviation" : "UCONN",
+      "defenseScheme" : "3-3-5",
+      "mascot" : "Huskies",
+      "name" : "UConn",
+      "offenseScheme" : "spread",
+      "prestige" : 50,
+      "primary" : "#000000",
+      "region" : "Northeast",
+      "secondary" : "#002868",
+      "tertiary" : "#FFFFFF"
+    }
+  ],
+  "ny6Bowls" : [
+    {
+      "name" : "Rose Bowl Game"
+    },
+    {
+      "name" : "Sugar Bowl"
+    },
+    {
+      "name" : "Orange Bowl"
+    },
+    {
+      "name" : "Cotton Bowl Classic"
+    },
+    {
+      "name" : "Peach Bowl"
+    },
+    {
+      "name" : "Fiesta Bowl"
+    }
+  ],
+  "rivalries" : [
+    {
+      "mutual" : true,
+      "teamA" : "Air Force",
+      "teamB" : "Hawaii"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Air Force",
+      "teamB" : "Colorado State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Akron",
+      "teamB" : "Kent State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Mississippi State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "LSU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Georgia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Florida"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Auburn"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Appalachian State",
+      "teamB" : "Marshall"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Appalachian State",
+      "teamB" : "Georgia Southern"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arizona",
+      "teamB" : "Arizona State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Texas"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Missouri"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "LSU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas State",
+      "teamB" : "Memphis"
+    },
+    {
+      "mutual" : false,
+      "teamA" : "Army",
+      "teamB" : "Notre Dame"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Army",
+      "teamB" : "Navy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Army",
+      "teamB" : "Air Force"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Florida"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Georgia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Tulane"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "LSU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ball State",
+      "teamB" : "Northern Illinois"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "Houston"
+    },
+    {
+      "mutual" : false,
+      "teamA" : "Baylor",
+      "teamB" : "Texas"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "TCU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boise State",
+      "teamB" : "Fresno State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boise State",
+      "teamB" : "Nevada"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boston College",
+      "teamB" : "Clemson"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boston College",
+      "teamB" : "UMass"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boston College",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boston College",
+      "teamB" : "Notre Dame"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Bowling Green",
+      "teamB" : "Kent State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Bowling Green",
+      "teamB" : "Toledo"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "BYU",
+      "teamB" : "Utah State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "BYU",
+      "teamB" : "Utah"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "California",
+      "teamB" : "Stanford"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "California",
+      "teamB" : "UCLA"
+    },
+    {
+      "mutual" : false,
+      "teamA" : "California",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Central Michigan",
+      "teamB" : "Eastern Michigan"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Central Michigan",
+      "teamB" : "Western Michigan"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "Miami (OH)"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "Louisville"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "Memphis"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "UCF"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "West Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "Florida State"
+    },
+    {
+      "mutual" : false,
+      "teamA" : "Clemson",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "NC State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Coastal Carolina",
+      "teamB" : "Liberty"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Kansas State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Colorado State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Utah"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado State",
+      "teamB" : "Wyoming"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Duke",
+      "teamB" : "North Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Duke",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "East Carolina",
+      "teamB" : "Marshall"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Florida State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "LSU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Miami (FL)"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida Atlantic",
+      "teamB" : "FIU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida State",
+      "teamB" : "Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Fresno State",
+      "teamB" : "San Jose State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Fresno State",
+      "teamB" : "San Diego State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia",
+      "teamB" : "Georgia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia Southern",
+      "teamB" : "Georgia State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia Tech",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Hawaii",
+      "teamB" : "San Jose State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Hawaii",
+      "teamB" : "Wyoming"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Houston",
+      "teamB" : "SMU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Houston",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Illinois",
+      "teamB" : "Indiana"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Illinois",
+      "teamB" : "Northwestern"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Illinois",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Indiana",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Iowa State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa State",
+      "teamB" : "Kansas State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "James Madison",
+      "teamB" : "Liberty"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "James Madison",
+      "teamB" : "Old Dominion"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kansas",
+      "teamB" : "Missouri"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kansas",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kansas",
+      "teamB" : "Kansas State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kentucky",
+      "teamB" : "Louisville"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kentucky",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Louisiana",
+      "teamB" : "ULM"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Louisiana",
+      "teamB" : "Louisiana Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Louisiana Tech",
+      "teamB" : "ULM"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Louisville",
+      "teamB" : "Miami (FL)"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Tulane"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Mississippi State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Marshall",
+      "teamB" : "Ohio"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Maryland",
+      "teamB" : "Rutgers"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Memphis",
+      "teamB" : "UAB"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Memphis",
+      "teamB" : "Southern Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Miami (OH)",
+      "teamB" : "Ohio"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan",
+      "teamB" : "Michigan State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan",
+      "teamB" : "Penn State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan",
+      "teamB" : "Ohio State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan State",
+      "teamB" : "Penn State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Middle Tennessee",
+      "teamB" : "Western Kentucky"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Middle Tennessee",
+      "teamB" : "Troy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Minnesota",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Minnesota",
+      "teamB" : "Wisconsin"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Mississippi State",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Missouri",
+      "teamB" : "Oklahoma"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Navy",
+      "teamB" : "Notre Dame"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Navy",
+      "teamB" : "Air Force"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "NC State",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Nebraska",
+      "teamB" : "Oklahoma"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Nebraska",
+      "teamB" : "Wisconsin"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Nevada",
+      "teamB" : "UNLV"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "New Mexico",
+      "teamB" : "New Mexico State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "NC State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "Stanford"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ohio State",
+      "teamB" : "Penn State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma",
+      "teamB" : "Oklahoma State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma",
+      "teamB" : "Texas"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma State",
+      "teamB" : "Tulsa"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ole Miss",
+      "teamB" : "Tulane"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oregon",
+      "teamB" : "Oregon State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oregon",
+      "teamB" : "Washington"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Penn State",
+      "teamB" : "Pittsburgh"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "SMU",
+      "teamB" : "TCU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "South Alabama",
+      "teamB" : "Troy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "South Florida",
+      "teamB" : "UCF"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Southern Miss",
+      "teamB" : "Tulane"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Stanford",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Syracuse",
+      "teamB" : "UConn"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "TCU",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Tennessee",
+      "teamB" : "Vanderbilt"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas A&M",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas State",
+      "teamB" : "UTSA"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "UCLA",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "UConn",
+      "teamB" : "UMass"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Utah State",
+      "teamB" : "Wyoming"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Virginia",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Virginia Tech",
+      "teamB" : "West Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "West Virginia",
+      "teamB" : "Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Washington",
+      "teamB" : "Washington State"
+    }
+  ]
+}
