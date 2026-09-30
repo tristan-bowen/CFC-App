@@ -189,19 +189,19 @@
           "teamB" : "Virginia Tech"
         }
       ],
-      "requiredConferenceGames" : 9,
-      "teams" : [
+      "requiredConferenceGames": 9,
+      "teams": [
         {
-          "abbreviation" : "BC",
-          "defenseScheme" : "4-3",
-          "mascot" : "Eagles",
-          "name" : "Boston College",
-          "offenseScheme" : "pro",
-          "prestige" : 75,
-          "primary" : "#98002E",
-          "region" : "Northeast",
-          "secondary" : "#BC9B6A",
-          "tertiary" : "#C8102E"
+          "abbreviation": "BC",
+          "defenseScheme": "4-3",
+          "mascot": "Eagles",
+          "name": "Boston College",
+          "offenseScheme": "pro",
+          "prestige": 75,
+          "primary": "#98002E",
+          "region": "Northeast",
+          "secondary": "#BC9B6A",
+          "tertiary": "#C8102E"
         },
         {
           "abbreviation": "CLEM",
@@ -551,7 +551,7 @@
         },
         {
           "abbreviation": "NEB",
-          "defenseScheme": 4-2-5",
+          "defenseScheme": "4-2-5",
           "mascot": "Cornhuskers",
           "name": "Nebraska",
           "offenseScheme": "pro",
@@ -1435,7 +1435,42 @@
       ],
       "requiredConferenceGames" : 8,
       "teams" : [
-                },
+        {
+          "abbreviation": "AKRON",
+          "defenseScheme": "3-4",
+          "mascot": "Zips",
+          "name": "Akron",
+          "offenseScheme": "spread",
+          "prestige": 26,
+          "primary": "#041E42",
+          "region": "Midwest",
+          "secondary": "#A89968",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "BALL",
+          "defenseScheme": "4-3",
+          "mascot": "Cardinals",
+          "name": "Ball State",
+          "offenseScheme": "spread",
+          "prestige": 33,
+          "primary": "#BA0C2F",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "BGSU",
+          "defenseScheme": "4-2-5",
+          "mascot": "Falcons",
+          "name": "Bowling Green",
+          "offenseScheme": "spread",
+          "prestige": 41,
+          "primary": "#FD5000",
+          "region": "Midwest",
+          "secondary": "#4F2C1D",
+          "tertiary": "#FFFFFF"
+        },
         {
           "abbreviation": "CMU",
           "defenseScheme": "3-4",
@@ -2123,7 +2158,7 @@
           "mutual" : true,
           "teamA" : "Boise State",
           "teamB" : "Utah State"
-        },
+        }
       ],
       "requiredConferenceGames" : 8,
       "teams" : [
