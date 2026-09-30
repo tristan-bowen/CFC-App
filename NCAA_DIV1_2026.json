@@ -189,19 +189,19 @@
           "teamB" : "Virginia Tech"
         }
       ],
-      "requiredConferenceGames": 9,
-      "teams": [
+      "requiredConferenceGames" : 9,
+      "teams" : [
         {
-          "abbreviation": "BC",
-          "defenseScheme": "4-3",
-          "mascot": "Eagles",
-          "name": "Boston College",
-          "offenseScheme": "pro",
-          "prestige": 75,
-          "primary": "#98002E",
-          "region": "Northeast",
-          "secondary": "#BC9B6A",
-          "tertiary": "#C8102E"
+          "abbreviation" : "BC",
+          "defenseScheme" : "4-3",
+          "mascot" : "Eagles",
+          "name" : "Boston College",
+          "offenseScheme" : "pro",
+          "prestige" : 75,
+          "primary" : "#98002E",
+          "region" : "Northeast",
+          "secondary" : "#BC9B6A",
+          "tertiary" : "#C8102E"
         },
         {
           "abbreviation": "CLEM",
