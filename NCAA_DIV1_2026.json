@@ -1350,6 +1350,18 @@
           "region" : "Plains",
           "secondary" : "#FFC425",
           "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NIU",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Huskies",
+          "name" : "Northern Illinois",
+          "offenseScheme" : "option",
+          "prestige" : 40,
+          "primary" : "#C41230",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
         }
       ],
       "tier" : "Non-Power"
@@ -1391,16 +1403,6 @@
         {
           "mutual" : true,
           "teamA" : "Bowling Green",
-          "teamB" : "Northern Illinois"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Bowling Green",
-          "teamB" : "Toledo"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Northern Illinois",
           "teamB" : "Toledo"
         },
         {
@@ -1494,18 +1496,6 @@
           "tertiary" : "#000000"
         },
         {
-          "abbreviation" : "NIU",
-          "defenseScheme" : "4-2-5",
-          "mascot" : "Huskies",
-          "name" : "Northern Illinois",
-          "offenseScheme" : "option",
-          "prestige" : 40,
-          "primary" : "#C41230",
-          "region" : "Midwest",
-          "secondary" : "#000000",
-          "tertiary" : "#FFFFFF"
-        },
-        {
           "abbreviation" : "OHIO",
           "defenseScheme" : "4-2-5",
           "mascot" : "Bobcats",
@@ -1576,7 +1566,19 @@
           "region" : "Northeast",
           "secondary" : "#FFFFFF",
           "tertiary" : "#000000"
-        }
+        },
+        {
+          "abbreviation" : "SAC",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Hornets",
+          "name" : "Sacramento State",
+          "offenseScheme" : "option",
+          "prestige" : 40,
+          "primary" : "#C41230",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
       ],
       "tier" : "Non-Power"
     },
