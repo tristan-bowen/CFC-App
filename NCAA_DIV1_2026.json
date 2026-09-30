@@ -1338,6 +1338,18 @@
           "region" : "Plains",
           "secondary" : "#FFC425",
           "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NDSU",
+          "defenseScheme" : "4-3",
+          "mascot" : "Bison",
+          "name" : "North Dakota State",
+          "offenseScheme" : "pro",
+          "prestige" : 48,
+          "primary" : "#492F24",
+          "region" : "Plains",
+          "secondary" : "#FFC425",
+          "tertiary" : "#FFFFFF"
         }
       ],
       "tier" : "Non-Power"
@@ -1750,18 +1762,6 @@
           "tertiary" : "#FEFFFF"
         },
         {
-          "abbreviation" : "TXST",
-          "defenseScheme" : "4-2-5",
-          "mascot" : "Warriors",
-          "name" : "Texas State",
-          "offenseScheme" : "airRaid",
-          "prestige" : 48,
-          "primary" : "#501213",
-          "region" : "Plains",
-          "secondary" : "#AC9055",
-          "tertiary" : "#FEFFFF"
-        },
-        {
           "abbreviation" : "TROY",
           "defenseScheme" : "4-2-5",
           "mascot" : "Warriors",
@@ -1772,6 +1772,18 @@
           "region" : "Southeast",
           "secondary" : "#B1B3B5",
           "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "LT",
+          "defenseScheme" : "3-3-5",
+          "mascot" : "Warriors",
+          "name" : "Louisiana Tech",
+          "offenseScheme" : "spread",
+          "prestige" : 40,
+          "primary" : "#003087",
+          "region" : "Southeast",
+          "secondary" : "#CB333B",
+          "tertiary" : "#FEFFFF"
         }
       ],
       "tier" : "Non-Power"
@@ -2035,18 +2047,6 @@
           "tertiary" : "#A2A5A8"
         },
         {
-          "abbreviation" : "LT",
-          "defenseScheme" : "3-3-5",
-          "mascot" : "Warriors",
-          "name" : "Louisiana Tech",
-          "offenseScheme" : "spread",
-          "prestige" : 40,
-          "primary" : "#003087",
-          "region" : "Southeast",
-          "secondary" : "#CB333B",
-          "tertiary" : "#FEFFFF"
-        },
-        {
           "abbreviation" : "MTSU",
           "defenseScheme" : "3-4",
           "mascot" : "Warriors",
@@ -2161,9 +2161,9 @@
       "requiredConferenceGames" : 8,
       "teams" : [
         {
-          "abbreviation" : "NT",
+          "abbreviation" : "ORST",
           "defenseScheme" : "4-2-5",
-          "mascot" : "Warriors",
+          "mascot" : "Beavers",
           "name" : "Oregon State",
           "offenseScheme" : "pro",
           "prestige" : 59,
@@ -2173,9 +2173,9 @@
           "tertiary" : "#FEFFFF"
         },
         {
-          "abbreviation" : "NT",
+          "abbreviation" : "WSU",
           "defenseScheme" : "4-3",
-          "mascot" : "Warriors",
+          "mascot" : "Cougars",
           "name" : "Washington State",
           "offenseScheme" : "spread",
           "prestige" : 62,
@@ -2244,6 +2244,18 @@
           "secondary" : "#FFFFFF",
           "tertiary" : "#000000"
         },
+        {
+          "abbreviation" : "TXST",
+          "defenseScheme" : "4-2-5",
+          "mascot" : "Warriors",
+          "name" : "Texas State",
+          "offenseScheme" : "airRaid",
+          "prestige" : 48,
+          "primary" : "#501213",
+          "region" : "Plains",
+          "secondary" : "#AC9055",
+          "tertiary" : "#FEFFFF"
+        }
       ],
       "tier" : "Non-Power"
     }
