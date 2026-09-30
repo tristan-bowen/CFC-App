@@ -1,4 +1,58 @@
 {
+  "awardCustomizations" : [
+    {
+      "awardType" : "Best Player Award",
+      "customName" : "Heisman Trophy"
+    },
+    {
+      "awardType" : "Best Offensive Player Award",
+      "customName" : "Maxwell Award"
+    },
+    {
+      "awardType" : "Best Defensive Player Award",
+      "customName" : "Chuck Bednarik Award"
+    },
+    {
+      "awardType" : "Best Quarterback Award",
+      "customName" : "Davey O'Brien Award"
+    },
+    {
+      "awardType" : "Best Running Back Award",
+      "customName" : "Doak Walker Award"
+    },
+    {
+      "awardType" : "Best Wide Receiver Award",
+      "customName" : "Fred Biletnikoff Award"
+    },
+    {
+      "awardType" : "Best Tight End Award",
+      "customName" : "John Mackey Award"
+    },
+    {
+      "awardType" : "Best Lineman Award",
+      "customName" : "Bronko Nagurski Award"
+    },
+    {
+      "awardType" : "Best Linebacker Award",
+      "customName" : "Dick Butkus Award"
+    },
+    {
+      "awardType" : "Best Defensive Back Award",
+      "customName" : "Jim Thorpe Award"
+    },
+    {
+      "awardType" : "Best Kicker Award",
+      "customName" : "Lou Groza Award"
+    },
+    {
+      "awardType" : "Best Punter Award",
+      "customName" : "Ray Guy Award"
+    },
+    {
+      "awardType" : "Freshman of the Year",
+      "customName" : "Shuan Alexander Memorial Award"
+    }
+  ],
   "bowls" : [
     {
       "name" : "Sun Bowl"
