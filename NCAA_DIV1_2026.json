@@ -551,10 +551,10 @@
         },
         {
           "abbreviation": "NEB",
-          "defenseScheme": "3-3-5",
+          "defenseScheme": 4-2-5",
           "mascot": "Cornhuskers",
           "name": "Nebraska",
-          "offenseScheme": "spread",
+          "offenseScheme": "pro",
           "prestige": 94,
           "primary": "#E41C38",
           "region": "Midwest",
@@ -563,7 +563,7 @@
         },
         {
           "abbreviation": "NW",
-          "defenseScheme": "4-3",
+          "defenseScheme": "4-2-5",
           "mascot": "Wildcats",
           "name": "Northwestern",
           "offenseScheme": "spread",
@@ -587,7 +587,7 @@
         },
         {
           "abbreviation": "PSU",
-          "defenseScheme": "4-2-5",
+          "defenseScheme": "3-4",
           "mascot": "Nittany Lions",
           "name": "Penn State",
           "offenseScheme": "pro",
@@ -611,7 +611,7 @@
         },
         {
           "abbreviation": "UCLA",
-          "defenseScheme": "4-3",
+          "defenseScheme": "4-2-5",
           "mascot": "Bruins",
           "name": "UCLA",
           "offenseScheme": "spread",
@@ -623,7 +623,7 @@
         },
         {
           "abbreviation": "USC",
-          "defenseScheme": "4-3",
+          "defenseScheme": "4-2-5",
           "mascot": "Trojans",
           "name": "USC",
           "offenseScheme": "airRaid",
@@ -635,7 +635,7 @@
         },
         {
           "abbreviation": "WASH",
-          "defenseScheme": "4-2-5",
+          "defenseScheme": "4-3",
           "mascot": "Huskies",
           "name": "Washington",
           "offenseScheme": "pro",
@@ -662,7 +662,7 @@
           "defenseScheme": "3-3-5",
           "mascot": "Boilermakers",
           "name": "Purdue",
-          "offenseScheme": "pro",
+          "offenseScheme": "airRaid",
           "prestige": 70,
           "primary": "#CFB991",
           "region": "Midwest",
@@ -671,7 +671,7 @@
         },
         {
           "abbreviation": "ORE",
-          "defenseScheme": "4-3",
+          "defenseScheme": "3-4",
           "mascot": "Ducks",
           "name": "Oregon",
           "offenseScheme": "spread",
